@@ -4,6 +4,7 @@
 [![Gem Version](https://badge.fury.io/rb/administrate.svg)](https://badge.fury.io/rb/administrate)
 [![Code Climate](https://codeclimate.com/github/thoughtbot/administrate/badges/gpa.svg)](https://codeclimate.com/github/thoughtbot/administrate)
 
+[Administrate 是一款可用于 Rails 应用的轻量级管理面板, Demo 应用部署在 Heroku 上]
 A Rails engine that helps you put together a super-flexible admin dashboard.
 [Try the demo][demo].
 
